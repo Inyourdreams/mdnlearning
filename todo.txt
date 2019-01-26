@@ -1,0 +1,6 @@
+1. Font: 
+<link href="https://fonts.googleapis.com/css?family=Sarabun" rel="stylesheet">
+font css : font-family: 'Sarabun', sans-serif;
+2. Color
+#660066
+3. Images: 
